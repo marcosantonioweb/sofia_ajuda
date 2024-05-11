@@ -3,15 +3,14 @@
 ![sofia](https://github.com/marcosantonioweb/sofia_ajuda/assets/169507198/0fa857f2-45c4-42ef-96ae-21c6b7f377f9)
 *Interface da Sofia Ajuda*
 
-![sofia_ajuda](https://github.com/marcosantonioweb/sofia_ajuda/assets/169507198/2e2bd7f5-e865-4063-af3a-0e9325d0e189)
-*exemplo de interação*
-
 ## Introdução
 
 Em um mundo cada vez mais agitado e conectado, a saúde mental se torna cada vez mais importante. As pressões do dia a dia, o estresse e a falta de apoio social podem levar a diversos transtornos, como depressão, ansiedade e distúrbios do sono.
 
 Sofia Ajuda é um chatbot criado para auxiliar pessoas que enfrentam desafios relacionados à saúde mental. Através de conversas interativas e personalizadas, Sofia oferece apoio emocional, informações confiáveis e dicas práticas para lidar com diferentes situações.
 
+![sofia_ajuda](https://github.com/marcosantonioweb/sofia_ajuda/assets/169507198/2e2bd7f5-e865-4063-af3a-0e9325d0e189)
+*exemplo de interação*
 ## Justificativa
 
 O acesso à saúde mental no Brasil ainda é precário. Segundo a OMS, 5,8% da população brasileira sofre de depressão, o que representa cerca de 11,7 milhões de pessoas. 
